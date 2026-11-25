@@ -2,7 +2,7 @@
 s=int(input("Enter s: "))
 n=int(input("Enter n: "))
 
-for i in range(s, n+1):
+for i in range(s, s+n):
     print(i*i)
 
 
